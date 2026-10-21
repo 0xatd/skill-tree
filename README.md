@@ -1,12 +1,8 @@
 # Agent Skill Tree
 
-## What this is
+An interactive experiment for designing agent capabilities through a Path-of-Exile-style allocation tree. Allocate nodes, explore archetype synergies, and export an agent specification.
 
-Agent Skill Tree is a product experiment for designing agent capabilities through a Path-of-Exile-style allocation tree. It helps turn vague agent roles into explicit skills, tradeoffs, and exportable specs.
-
-Status: experiment. Useful as a design/prototyping surface, not a core operating system.
-
-Path of Exile style passive tree for agent capabilities. Allocate nodes, reveal archetype synergies, and export a working agent spec.
+**Status: public prototype.** This is a design tool, not an agent runtime or a production orchestration system.
 
 ## Stack
 - Next.js 15/16 App Router + TypeScript strict
