@@ -2,7 +2,7 @@
 
 An interactive experiment for designing agent capabilities through a Path-of-Exile-style allocation tree. Allocate nodes, explore archetype synergies, and export an agent specification.
 
-**Status: public prototype.** This is a design tool, not an agent runtime or a production orchestration system.
+**Status: public prototype.**
 
 ## Stack
 - Next.js 15/16 App Router + TypeScript strict
